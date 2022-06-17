@@ -17,3 +17,11 @@ ll.a.hulu.com
 p.hulu.com
 t2.hulu.com
 track.hulu.com
+||a.huluad.com^
+||ads.hulu.com^
+||p.hulu.com^
+||t2.hulu.com^
+||track.hulu.com^
+||ib*.huluim.com^
+@@.hulu.com/published/*.mp4
+@@.hulu.com/published/*.flv
